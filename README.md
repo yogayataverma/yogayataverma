@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=ff66b2&style=flat" alt="yogayataverma" /> </p>
 
-![Animated GIF](https://example.com/your-gif.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+<iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-NgurY1o4z080Jfoyzw">via GIPHY</a></p>
 
 - 🌱 I’m currently learning: **Next.js and Firebase**
 
