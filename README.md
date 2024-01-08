@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **yogayatajugnu@gmail.com | 7986258542**
 
-- 📄 Know about my experiences: ![https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f2/95/76/f29576f0-6ec7-4fa0-9e95-33c9983db868/logo_drive_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220.png/1200x630wa.png](https://drive.google.com/file/d/1yUE6ePgMTDzE0xM1Y06OsjN6mNj1R_GT/view?usp=sharing)
+- 📄 Know about my experiences: ![Google](https://drive.google.com/file/d/1yUE6ePgMTDzE0xM1Y06OsjN6mNj1R_GT/view?usp=sharing)
 
 - ⚡ Fun fact: **I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!**
 
