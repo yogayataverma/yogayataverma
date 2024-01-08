@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=0e75b6&style=flat" alt="yogayataverma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogayataverma" alt="yogayataverma" /></a> </p>
+- 🌱 I’m currently learning **Next.js and Firebase**
 
-- 🌱 I’m currently learning: **Next.js and Firebase**
+- 💬 Ask me about **React, PHP, Java and Python**
 
-- 💬 Ask me about: **React, PHP, Java and Python**
+- 📫 How to reach me **yogayatajugnu@gmail.com | 7986258542**
 
-- 📫 How to reach me: **yogayatajugnu@gmail.com | 7986258542**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yUE6ePgMTDzE0xM1Y06OsjN6mNj1R_GT/view?usp=sharing](https://drive.google.com/file/d/1yUE6ePgMTDzE0xM1Y06OsjN6mNj1R_GT/view?usp=sharing)
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1yUE6ePgMTDzE0xM1Y06OsjN6mNj1R_GT/view?usp=sharing](https://drive.google.com/file/d/1yUE6ePgMTDzE0xM1Y06OsjN6mNj1R_GT/view?usp=sharing)
-
-- ⚡ Fun fact: I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!
+- ⚡ Fun fact **Coffee Aficionado ☕: I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
