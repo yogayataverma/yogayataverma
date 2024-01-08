@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YOGAYATA VERMA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=Redstyle=flat" alt="yogayataverma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=#c3b1e1&tyle=flat" alt="yogayataverma" /> </p>
 
 - 🌱 I’m currently learning: **Next.js and Firebase**
 
