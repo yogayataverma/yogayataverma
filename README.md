@@ -5,7 +5,8 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-<img src="https://giphy.com/clips/fu9AsVRVJ64x1GhJbg" alt="Computer GIF">
+![image](https://github.com/yogayataverma/YOGAYATA/assets/63913693/faa42981-65fc-4b41-9a64-f9213c3f301b)
+
 
 - 🌱 I’m currently learning: **Next.js and Firebase**
 
