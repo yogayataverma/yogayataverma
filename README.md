@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=ffd1dc&style=flat" alt="yogayataverma" /> </p>
 
 
-<p align="right> <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-34-881_512.gif" alt="Animated GIF"> </p>
+<p align="right> <img src="https://i.gifer.com/SsQa.mp4" alt="Animated GIF"> </p>
 
 - 🌱 I’m currently learning: **Next.js and Firebase**
 
