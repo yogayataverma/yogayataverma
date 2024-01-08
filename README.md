@@ -1,13 +1,9 @@
-![image](https://www.canva.com/design/DAF5TGhtmNs/2yNcXjA99nM0enrNwyajBw/view?utm_content=DAF5TGhtmNs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
 <h1 align="center">Hi 👋, I'm YOGAYATA VERMA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=ff66b2&style=flat" alt="yogayataverma" /> </p>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
-![image](https://github.com/yogayataverma/YOGAYATA/assets/63913693/faa42981-65fc-4b41-9a64-f9213c3f301b)
+<p align="right"> ![image](https://github.com/yogayataverma/YOGAYATA/assets/63913693/faa42981-65fc-4b41-9a64-f9213c3f301b) </p>
 
 
 - 🌱 I’m currently learning: **Next.js and Firebase**
