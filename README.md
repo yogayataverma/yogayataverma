@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YOGAYATA VERMA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=ffd1dc&style=flat" alt="yogayataverma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=ff66b2&style=flat" alt="yogayataverma" /> </p>
 
 
 <p align="right> <img src="https://i.gifer.com/SsQa.mp4" alt="Animated GIF"> </p>
