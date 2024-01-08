@@ -5,7 +5,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-<iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-NgurY1o4z080Jfoyzw">via GIPHY</a></p>
+![Computer GIF](https://giphy.com/clips/fu9AsVRVJ64x1GhJbg)
 
 - 🌱 I’m currently learning: **Next.js and Firebase**
 
