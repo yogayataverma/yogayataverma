@@ -1,10 +1,11 @@
+![image](https://github.com/yogayataverma/YOGAYATA/assets/63913693/faa42981-65fc-4b41-9a64-f9213c3f301b)
+
+
+
 <h1 align="center">Hi 👋, I'm YOGAYATA VERMA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=ff66b2&style=flat" alt="yogayataverma" /> </p>
-
-<p align="right"> ![image](https://github.com/yogayataverma/YOGAYATA/assets/63913693/faa42981-65fc-4b41-9a64-f9213c3f301b) </p>
-
 
 - 🌱 I’m currently learning: **Next.js and Firebase**
 
