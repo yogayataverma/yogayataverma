@@ -1,3 +1,5 @@
+![image](https://www.canva.com/design/DAF5TGhtmNs/2yNcXjA99nM0enrNwyajBw/view?utm_content=DAF5TGhtmNs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 <h1 align="center">Hi 👋, I'm YOGAYATA VERMA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
