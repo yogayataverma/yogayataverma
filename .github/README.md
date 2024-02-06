@@ -14,7 +14,7 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
-  ![https://github.com/yogayataverma/yogayataverma/blob/main/readme.gif](https://camo.githubusercontent.com/923eff39a65259f6ddfaafba30b3e8421864325b57d47b1196d9ea5e43a6f9f0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966)
+  <div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/SsQa" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 </p>
 
 <p align="left">
