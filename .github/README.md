@@ -13,6 +13,8 @@
 
 [![Top Language](https://img.shields.io/github/languages/top/yogayataverma/CrossRoads)](https://github.com/yogayataverma/CrossRoads)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogayataverma>&show_icons=true&theme=radical)](https://github.com/yogayataverma)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogayataverma&&color=ff66b2" alt="yogayataverma" /></p>
 
