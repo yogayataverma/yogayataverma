@@ -11,7 +11,11 @@
 
 - ⚡ Fun fact: **I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!**
 
-[![Top Language](https://img.shields.io/github/languages/top/yogayataverma/CrossRoads)](https://github.com/yogayataverma/CrossRoads)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogayataverma&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact" width="400">
+</p>
+
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact)](https://github.com/yogayataverma)
 
