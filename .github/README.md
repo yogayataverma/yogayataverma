@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogayataverma&show_icons=true&theme=radical" width="400" >
+  <img src="https://github-readme-stats.vercel.app/api?username=yogayataverma&show_icons=true&theme=radical" width="400" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact" width="400" height="200">
 </p>
 
