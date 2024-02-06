@@ -1,3 +1,6 @@
+<div style="display: flex; justify-content: space-between;">
+<div style="flex: 1;">
+  
 <h1 align="center">Hi 👋, I'm YOGAYATA VERMA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
@@ -16,10 +19,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
 </p>
 
-<p align="right">
-  <img align="left" src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="500" height="500"/>
-</p>
-
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogayataverma&&color=ff66b2" alt="yogayataverma" />
 </p>
@@ -35,4 +34,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/yverma2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yverma2000" height="30" width="40" /></a>
 </p>
+
+</div>
+
+<div style="flex: 1;">
+      <img src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="500" height="500"/>
+</div>
+
+</div>
 
