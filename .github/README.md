@@ -14,7 +14,7 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
-  ![Gif](https://i.gifer.com/SsQa.gif)
+  ![Animated GIF](https://i.gifer.com/SsQa.gif)
 </p>
 
 <p align="left">
