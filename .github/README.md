@@ -17,7 +17,7 @@
 </p>
 
 <p align="right">
-  <img align="left" src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="200" height="200"/>
+  <img align="left" src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="500" height="500"/>
 </p>
 
 <p align="left">
