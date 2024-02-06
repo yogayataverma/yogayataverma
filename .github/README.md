@@ -1,6 +1,3 @@
-<div style="display: flex; justify-content: space-between;">
-<div style="flex: 1;">
-  
 <h1 align="center">Hi 👋, I'm YOGAYATA VERMA</h1>
 <h3 align="center">A passionate coder from India</h3>
 
@@ -14,6 +11,8 @@
 
 - ⚡ Fun fact: **I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!**
 
+<div style="display: flex; justify-content: space-between;">
+<div style="flex: 1;">
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
