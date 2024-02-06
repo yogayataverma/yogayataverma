@@ -14,7 +14,7 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
-  <img align="left" src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma"/>
+  <img align="left" src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="200" height="200"/>
 </p>
 
 <p align="left">
