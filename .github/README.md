@@ -14,7 +14,7 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
-  ![https://i.gifer.com/SsQa.gif]
+  ![readme](https://github.com/yogayataverma/yogayataverma/assets/63913693/d94be0da-eba6-40c4-8fee-3e4741f6ceb6)
 </p>
 
 <p align="left">
