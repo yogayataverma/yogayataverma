@@ -26,7 +26,7 @@
 </div>
 
 <div style="flex: 1;">
-      <img src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="500" height="500"/>
+      <img src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="200" height="200"/>
 </div>
 
 </div>
