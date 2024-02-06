@@ -13,7 +13,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yogayataverma&&color=ff66b2" alt="yogayataverma" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogayataverma&&color=ff66b2" alt="yogayataverma" />
   <img align="right" height="200" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1"  />
 </p>
 
