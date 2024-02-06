@@ -14,7 +14,7 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
-  <img align="left" src="https://static.vecteezy.com/system/resources/previews/016/412/379/original/programming-and-coding-on-laptop-screen-simple-notebook-computer-with-code-design-flat-design-for-web-banners-web-sites-or-printed-materials-free-vector.jpg" alt="yogayataverma"/>
+  <img align="left" src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma"/>
 </p>
 
 <p align="left">
