@@ -14,7 +14,7 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
-  <div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/SsQa" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+  <img align="left" src="https://i.gifer.com/SsQa.gif" alt="yogayataverma"/>
 </p>
 
 <p align="left">
