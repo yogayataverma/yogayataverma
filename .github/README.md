@@ -19,6 +19,9 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogayataverma&&color=ff66b2" alt="yogayataverma" />
+</p>
+
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yogayataverma&show_icons=true&locale=en" alt="yogayataverma" />
 </p>
 
