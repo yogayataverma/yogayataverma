@@ -14,19 +14,18 @@
 <div style="display: flex; justify-content: space-between;">
 <div style="flex: 1;">
 
+
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
+  <div style="flex: 1;">
+      <img src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="200" height="200"/>
+  </div>
 </p>
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yogayataverma&show_icons=true&locale=en" alt="yogayataverma" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogayataverma&&color=ff66b2" alt="yogayataverma" />
 </p>
-
-</div>
-
-<div style="flex: 1;">
-      <img src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="200" height="200"/>
 </div>
 
 </div>
