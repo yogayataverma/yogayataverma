@@ -15,7 +15,7 @@
 <div style="flex: 1;">
 
 
-<p align="left" style="margin-top:-10;">
+<p align="left" style="margin-top:-50;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&show_icons=true&locale=en&layout=compact" alt="yogayataverma"/>
   <p align="right">
       <img src="https://thumbs.dreamstime.com/b/programming-code-laptop-icon-vector-programming-code-laptop-icon-146964008.jpg" alt="yogayataverma" width="500" height="500"/>
