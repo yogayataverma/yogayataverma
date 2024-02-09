@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=ff66b2&style=flat" alt="yogayataverma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogayataverma&label=Profile%20views&color=ff66b2&style=flat" alt="yogayataverma" /> </p>
 
 ###
 
