@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
+<img align="right"  width="200" height="100" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
 
 ###
 
