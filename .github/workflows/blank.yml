@@ -16,10 +16,10 @@ jobs:
     steps:
       - name: Create README with blinking text
         run: |
-          echo '<!DOCTYPE html><html><head><title>Blinking Text</title></head><body><h1><blink>Your Name</blink></h1></body></html>' > README.md
+          echo '<!DOCTYPE html><html><head><title>Blinking Text</title></head><body><h1><blink>Your Name</blink></h1></body></html>' > yv.html
           git config --global user.email "yogayatajugnu@gmail.com"
           git config --global user.name "Yogayata Verma"
-          git add README.md
+          git add yv.html
           git commit -m "Add blinking text to README"
           git push
         env:
