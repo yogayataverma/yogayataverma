@@ -86,5 +86,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/yogayataverma/yogayataverma/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yogayataverma/yogayataverma/output/name.svg" alt="Snake animation" />
 
 ###
