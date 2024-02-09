@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right"  width="400" height="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
+<img align="right"  width="420" height="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
 
 ###
 </hr>
