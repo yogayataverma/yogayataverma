@@ -24,6 +24,7 @@ ll
 <img align="right"  width="400" height="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
 
 ###
+</hr>
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
