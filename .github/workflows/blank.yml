@@ -1,0 +1,26 @@
+name: Generate Dynamic SVG
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate-svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate SVG
+        run: echo '<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg"><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="30" fill="black">Yogayata Verma</text></svg>' > yogayata_verma.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add yogayata_verma.svg
+          git commit -m "Generate dynamic SVG with name: Yogayata Verma"
+          git push
