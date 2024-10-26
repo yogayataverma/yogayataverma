@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: Next.js and Firebase<br><br>💬 Ask me about: React, PHP, Java and Python<br><br>📫 How to reach me: yogayatajugnu@gmail.com | 7986258542<br><br>⚡ Fun fact: I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!</p>
+<p align="left">🌱 I’m currently learning: Next.js and Firebase<br><br>💬 Ask me about: React, MySQL, Java and Python<br><br>📫 How to reach me: yogayatajugnu@gmail.com | 7986258542<br><br>⚡ Fun fact: I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!</p>
 
 ###
 
