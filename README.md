@@ -16,11 +16,11 @@
 
 <div align="center" style="display:flex; gap:20px; flex-wrap:nowrap;">
   <img
-    src="https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false"
     alt="GitHub Streak"
     width="400">
   <img
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true&title=false&hide_border=true"
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true&title=false&hide_border=false"
     alt="Top Languages"
     width="400">
 </div>
