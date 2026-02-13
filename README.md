@@ -16,17 +16,6 @@
 
 ![](https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=dark&hide_border=false&langs_count=8&cache_seconds=1800)
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogayataverma&show_icons=true&theme=github_dark)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=yogayataverma&theme=github-dark)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=github_dark&langs_count=8)
-
 ###
 
 <img align="right"  width="420" height="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"  />
