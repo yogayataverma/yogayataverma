@@ -18,7 +18,7 @@
 
 ![](https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=dark&hide_border=false&langs_count=8" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=dark&hide_border=false&langs_count=8)
 
 ###
 
