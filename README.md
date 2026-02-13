@@ -21,11 +21,11 @@
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogayataverma&show_icons=true&theme=github_dark)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=github_dark&langs_count=8&hide_progress=true)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=yogayataverma&theme=github-dark)
 
-<!-- Streak graph -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=yogayataverma&theme=github-dark&date_format=%5BY%20%5DM%20j)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=github_dark&langs_count=8)
 
 ###
 
