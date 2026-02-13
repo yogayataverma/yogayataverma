@@ -14,8 +14,18 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yogayataverma&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars)
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=yogayataverma&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ###
 
