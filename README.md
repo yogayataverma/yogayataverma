@@ -13,7 +13,7 @@
 <p align="left">🌱 I’m currently learning: Next.js and Firebase<br><br>💬 Ask me about: React, MySQL, Java and Python<br><br>📫 How to reach me: yogayatajugnu@gmail.com | 7986258542<br><br>⚡ Fun fact: I firmly believe in the magical powers of coffee. Espresso, latte, or cappuccino – I'm always up for a cup!</p>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=true&border_radius=10&date_format=%5b%20%b%20%Y%5d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true&title=false)
 
 ###
