@@ -14,11 +14,9 @@
 
 ###
 
-## ![](https://github-readme-stats.vercel.app/api?username=yogayataverma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=dark&hide_border=false&langs_count=8)](https://github.com/yogayataverma)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=dark&hide_border=false&langs_count=8)](https://github.com/yogayataverma)
 
 ###
 
