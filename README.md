@@ -16,7 +16,7 @@
 
 <div align="center" style="display:flex; gap:20px; flex-wrap:nowrap;">
   <img
-    src="https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false&border_color=FFFFFF"
+    src="https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false&border_color=333333"
     alt="GitHub Streak"
     width="500">
   <img
