@@ -15,7 +15,7 @@
 ###
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=true)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=true)) 
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true&title=false)
 
 ###
 
