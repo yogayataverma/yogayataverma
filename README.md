@@ -20,7 +20,7 @@
     alt="GitHub Streak"
     width="500">
   <img
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true&title=false&hide_border=false"
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true&title=false&hide_border=false@exclude=html,css"
     alt="Top Languages"
     width="500">
 </div>
