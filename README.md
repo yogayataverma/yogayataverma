@@ -18,14 +18,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=dark&hide_border=false&langs_count=8&cache_seconds=1800)
 
-<!-- GitHub stats -->
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogayataverma&show_icons=true&theme=github_dark)
 
-<!-- Streak graph (optional) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogayataverma&theme=github_dark)
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=github_dark&langs_count=8&hide_progress=true)
 
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogayataverma&layout=compact&theme=github_dark)
+<!-- Streak graph -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=yogayataverma&theme=github-dark&date_format=%5BY%20%5DM%20j)
 
 ###
 
