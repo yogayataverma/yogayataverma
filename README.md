@@ -16,13 +16,13 @@
 
 <div align="center" style="display:flex; gap:20px; flex-wrap:nowrap;">
   <img
-    src="https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false"
+    src="https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false&border_color=FFFFFF"
     alt="GitHub Streak"
-    width="400">
+    width="500">
   <img
-    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true&title=false&hide_border=false"
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=yogayataverma&type=languages&theme=github&chart=bars&hide_title=true&title=false&hide_border=false&border_color=FFFFFF"
     alt="Top Languages"
-    width="400">
+    width="500">
 </div>
 
 ###
