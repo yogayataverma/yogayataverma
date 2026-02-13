@@ -14,8 +14,11 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=yogayataverma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yogayataverma&layout=compact&langs_count=5&locale=en)
+![](https://github-readme-stats.vercel.app/api?username=yogayataverma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=yogayataverma&theme=github-dark&hide_border=false)
+
+![](https://streak-stats.demolab.com?user=yogayataverma&theme=dark&hide_border=false)
 
 ###
 
